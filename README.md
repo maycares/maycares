@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maycares
-- 👀 I’m interested in UI/ UX 
-- 🌱 I’m currently learning  Designs
+- 👀 I’m interested in UI/ UX ;html, css
+- 🌱 I’m currently learning  Designs and web development
 - 💞️ I’m looking to collaborate on projects, get gigs
 - 📫 How to reach me ... mayowaagbalaya@gmail.com
 
